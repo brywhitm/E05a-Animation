@@ -1,9 +1,5 @@
 # E05a-Animation
 
-We will begin to explore keyboard and mouse control in a Python Arcade program.
+9/23/2019   Bryce Whitmer
 
-When you are done, main1.py should contain the code on [http://arcade.academy/examples/move_mouse.html#move-mouse](http://arcade.academy/examples/move_mouse.html#move-mouse). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
-
-main2.py should contain the code on [http://arcade.academy/examples/move_keyboard.html#move-keyboard](http://arcade.academy/examples/move_keyboard.html#move-keyboard). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
-
-For extra credit, you could create a main3.py that contains the code on [http://arcade.academy/examples/sprite_move_animation.html#sprite-move-animation](http://arcade.academy/examples/sprite_move_animation.html#sprite-move-animation). Download sprite assets for the player and coins and figure out how to make your character walk left and right.
+went through and commented any lines that was not commented for main1 and 2. Did not do extra credit. Thats all the assignment was to play with the program and find out what it does. Then comment lines that are not clear or already commented. I cant make this more descript there is nothing to elaborate on.
